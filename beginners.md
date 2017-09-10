@@ -153,6 +153,8 @@ Python:
     * [Yandex: Обучение: Системное администрирование: Python][yandex_system_administration_talks]
     * [ubuntu.ru: Программа на Python][ubuntu_program_on_python]
     * [Codecademy: Python][codecademy_python]
+    * [edX: CS50 Основы программирования][edX_CS50]
+    * [edX: CS50 Основы программирования (2015) на русском языке][edX_CS50_javarush]
     * [Coursera: Programming for Everybody — Getting Started with Python][coursera_getting_started_with_python]
   + книги:
     * [2013, Zed A. Shaw, Learn Python the Hard Way, 3rd Edition][learnpythonthehardway]
@@ -269,6 +271,8 @@ PowerShell:
 - [Курс edX: Introduction to Linux][linuxfoundation_lfs101x]
 - [Курс Cybrary: CompTIA Linux+][cybrary_comptia_linux]
 - [Книга Пола Коббаута, Фундаментальные основы Linux][linux_foundations_free]
+- [edX CS50 Основы программирования][edX_CS50]
+- [edX CS50 Основы программирования (на русском языке)][edX_CS50_javarush]
 - [Видеолекции Yandex: Обучение: Системное администрирование: Python][yandex_system_administration_talks]
 - [Курс ubuntu.ru: Программа на Python][ubuntu_program_on_python]
 - [Курс Codecademy: Python][codecademy_python]
@@ -337,6 +341,8 @@ PowerShell:
 [coursera_getting_started_with_python]: https://www.coursera.org/learn/python
 [ubuntu_program_on_python]: http://help.ubuntu.ru/fullcircle/27/python_ч_1
 [yandex_system_administration_talks]: https://academy.yandex.ru/events/system_administration/
+[edX_CS50]: https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
+[edX_CS50_javarush]: https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5
 [digininja_breaking_in_to_security_part_1]: https://digi.ninja/projects/breaking_in_part_1.php
 [homakov_how_i_started_in_web_security]: https://medium.com/@homakov/how-i-started-in-web-security-400b80824e86
 [how_to_become_a_hacker]: http://www.catb.org/esr/faqs/hacker-howto.html
