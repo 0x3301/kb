@@ -341,7 +341,7 @@ PowerShell:
 [coursera_getting_started_with_python]: https://www.coursera.org/learn/python
 [ubuntu_program_on_python]: http://help.ubuntu.ru/fullcircle/27/python_ч_1
 [yandex_system_administration_talks]: https://academy.yandex.ru/events/system_administration/
-[edX_CS50]: https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
+[edX_CS50]: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 [edX_CS50_javarush]: https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5
 [digininja_breaking_in_to_security_part_1]: https://digi.ninja/projects/breaking_in_part_1.php
 [homakov_how_i_started_in_web_security]: https://medium.com/@homakov/how-i-started-in-web-security-400b80824e86
